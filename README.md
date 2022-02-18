@@ -7,7 +7,7 @@ Getting started with Django, this is a full stack web application.
 ### Clone the repository
  
 ```sh
-$ git clone https://github.com/xarala221/django-phonebook.git
+$ git clone https://github.com/shaxpakistan/django-phonebook.git
 $ cd django-phonebook
 ```
  
